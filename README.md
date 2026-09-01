@@ -24,13 +24,14 @@ books are too big to email around comfortably, so they live here and the website
 Anything here can be linked directly with its raw URL:
 
 ```
-https://raw.githubusercontent.com/lucienwb/CBOND2026/main/YRS_Abstract_Book.pdf
+https://raw.githubusercontent.com/lucienwb/CBOND2026/main/CBOND_Abstract_Book.pdf
 ```
 
 ### Downloads
 
 | File | | |
 |---|---|---|
+| **CBOND2026 Book of Abstracts** | 145 pp · 32.5 MB | [Download](https://github.com/lucienwb/CBOND2026/raw/main/CBOND_Abstract_Book.pdf) · [Preview](https://github.com/lucienwb/CBOND2026/blob/main/CBOND_Abstract_Book.pdf) |
 | **YRS Book of Abstracts** | 37 pp · 4.4 MB | [Download](https://github.com/lucienwb/CBOND2026/raw/main/YRS_Abstract_Book.pdf) · [Preview](https://github.com/lucienwb/CBOND2026/blob/main/YRS_Abstract_Book.pdf) |
 
 ---
@@ -65,6 +66,4 @@ Details: **[eurchembond.com/young-research-symposium](https://www.eurchembond.co
 
 ---
 
-Questions: **[CBOND26@vub.be](mailto:CBOND26@vub.be)**
-
-<sub>The conference website is authoritative — if anything here disagrees with it, trust the website.</sub>
+Contact us: **[CBOND26@vub.be](mailto:CBOND26@vub.be)**
