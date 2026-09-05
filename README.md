@@ -31,8 +31,8 @@ https://raw.githubusercontent.com/lucienwb/CBOND2026/main/CBOND_Abstract_Book.pd
 
 | File | | |
 |---|---|---|
-| **CBOND2026 Book of Abstracts** | 145 pp · 32.5 MB | [Download](https://github.com/lucienwb/CBOND2026/raw/main/CBOND_Abstract_Book.pdf) · [Preview](https://github.com/lucienwb/CBOND2026/blob/main/CBOND_Abstract_Book.pdf) |
-| **YRS Book of Abstracts** | 37 pp · 4.4 MB | [Download](https://github.com/lucienwb/CBOND2026/raw/main/YRS_Abstract_Book.pdf) · [Preview](https://github.com/lucienwb/CBOND2026/blob/main/YRS_Abstract_Book.pdf) |
+| **CBOND2026 Book of Abstracts** | 145 pp · 31.0 MB | [Download](https://github.com/lucienwb/CBOND2026/raw/main/CBOND_Abstract_Book.pdf) · [Preview](https://github.com/lucienwb/CBOND2026/blob/main/CBOND_Abstract_Book.pdf) |
+| **YRS Book of Abstracts** | 37 pp · 4.5 MB | [Download](https://github.com/lucienwb/CBOND2026/raw/main/YRS_Abstract_Book.pdf) · [Preview](https://github.com/lucienwb/CBOND2026/blob/main/YRS_Abstract_Book.pdf) |
 
 ---
 
